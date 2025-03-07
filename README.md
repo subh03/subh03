@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Subhadeep Pal (Subh) - i code, hoop, build startups and skate sometimes 
+---
+> 1% better everyday
 
-<!--
-**subh03/subh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science undergrad with a minor in AI & ML. 
+* passionate about machine learning, artificial intelligence, robotics, startups & investing
+* building AI-driven automation & AI agents for **UncleDrewOffice**
+* working with **ROS2, Linux, MATLAB, Java, Python, and C**
 
-Here are some ideas to get you started:
+* currently building **Oddity – A Rover for the URC competition** & **UncleDrewOffice**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently working on 
+- UncleDrewOffice : agency providing AI automations and designs to businesses
+- Oddity Rover : Manipulator & Software subsystems
+- ML club of my college : mentoring 100+ students
+
+# Tech Stack 
+**Languages :** 
+**Tools :** 
+**Development :** 
+
+## Let's connect 
+- X :
+- Instagram :
+- Linkedin :
+- Email : 

@@ -1,4 +1,4 @@
-## Hi, I'm Subhadeep Pal (Subh) - i code, hoop, build startups and skate sometimes 
+## Hi, I'm Subhadeep Pal (Subh) - i (vibe)code, run UDO(marketing agency), host raves & make AI agents 
 ---
 > 1% better everyday
 
